@@ -3,6 +3,13 @@
 <h1>Hi, I'm Krishan! <br/><a href="https://github.com/krika3919">Programmer</a>, <a href="https://www.linkedin.com/in/krishan-kapoor-441981287/">Penn State Sophomore</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KrishanKapoor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/krishan-kapoor-441981287/
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -19,6 +26,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 <!--
