@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I'm Krishan! <br/><a href="https://github.com/krika3919">Programmer</a>, <a href="https://www.linkedin.com/in/krishan-kapoor-441981287/">Penn State Sophomore</a>
+<h1>Hi, I'm Krishan! <br/><a href="https://github.com/krika3919">Programmer</a>, <a href="https://www.linkedin.com/in/krishan-kapoor-441981287/">Penn State Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
